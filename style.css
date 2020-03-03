@@ -1,0 +1,27 @@
+.navbar {
+  padding: 1rem;
+  background-color:red;
+}
+
+.footer {
+  padding: 1rem;
+  background-color:red;
+}
+
+.btn-primary:hover {
+  background-color: black;
+  color: white;
+}
+
+/* styles.css */
+
+.hero-background-img {
+  background-image: url("loona-so-what.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.jumbotron {
+    background: url("loona-so-what.jpg") center center / cover no-repeat;
+}
